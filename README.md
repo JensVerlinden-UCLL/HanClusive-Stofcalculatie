@@ -1,4 +1,4 @@
-# HanClusive Stoffen Calculator
+# HanClusive StofCalculator
 
 The **HanClusive  Stofcalculator** is a GUI-based application designed to calculate the most efficient arrangement of fabric rectangles on a fabric roll, minimizing waste.\
 \
